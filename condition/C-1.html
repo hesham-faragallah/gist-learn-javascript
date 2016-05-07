@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<button onClick="myFunction()">Click me to test your code</button>
+	<br><br>
+	<span id="output"></span>
+	<script>
+	function myFunction() {
+	   var hour = new Date().getHours(); var greeting;
+	   if (hour > 18) { 
+	   	    greeting = "Good day"; 
+	    } else { 
+	   	  greeting = "Good evening"; 
+	   	} 
+		document.getElementById('output').innerHTML = greeting;
+	}
+	</script>
+</body>
+</html>
