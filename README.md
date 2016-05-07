@@ -7,7 +7,7 @@ List basic course
 2 - array 
 3 - condition (if & else) 
 4 - switch 
-5 - loop 
+5 - loop <br>
 6 - while 
 7 - function 
 8 - event
