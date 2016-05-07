@@ -3,7 +3,7 @@ Summary of BasicTutorial javascript
 
 List basic course
 
-<h6>1 - variable </h6><br>
+<h6>1 - variable </h6>
 <a href="" style="color:#ddd">"variables are containers for storing data values " </a><br>
 </h6>2 - array </h6><br>
 <a href="" style="color:#ddd">" arrays are used to store multiple values in a single variable " </a><br>
