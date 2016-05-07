@@ -1,14 +1,22 @@
-gist-learn-javascript
+#gist-learn-javascript
 Summary of BasicTutorial javascript
 
 List basic course
 
-1 - variable 2 - array 3 - condition (if & else) 4 - switch 5 - loop 6 - while 7 - function 8 - event
+1 - variable 
+2 - array 
+3 - condition (if & else) 
+4 - switch 
+5 - loop 
+6 - while 
+7 - function 
+8 - event
 
 I used the following link websie to reference http://www.w3schools.com/ http://developer.mozilla.org
 
 1- variable 
-" variables are containers for storing data values " 
+
+"variables are containers for storing data values " 
 example : 
 var name = "hesham"; 
 alert("my name is"+name); 
@@ -68,6 +76,7 @@ document.getElementById("demo").innerHTML = greeting; }
        statementN
 
    --------- nasty condition ------
+   
    if (condition1)
        statement1
     else
@@ -77,6 +86,7 @@ document.getElementById("demo").innerHTML = greeting; }
           if (condition3)
 
   ---------mark ------------------
+  
   if (x > 5)
   if (cipher_char === from_char) 
   if (cipher_char == from_char) 
